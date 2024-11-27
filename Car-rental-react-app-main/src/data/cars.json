@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Toyota Corolla",
+      "price": "$50/day",
+      "image": "https://via.placeholder.com/200",
+      "description": "Reliable and fuel-efficient sedan."
+    },
+    {
+      "id": 2,
+      "name": "Ford Mustang",
+      "price": "$100/day",
+      "image": "https://via.placeholder.com/200",
+      "description": "Stylish sports car with powerful performance."
+    }
+  ]
+  
